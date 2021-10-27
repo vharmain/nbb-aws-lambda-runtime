@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "aws-sdk": "^2.1013.0",
+    "nbb": "^0.0.107"
+  }
+}

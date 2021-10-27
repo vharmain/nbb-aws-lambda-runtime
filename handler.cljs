@@ -1,0 +1,4 @@
+(ns script)
+
+(println "kissa")
+
