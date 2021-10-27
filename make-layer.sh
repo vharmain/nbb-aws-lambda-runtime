@@ -11,4 +11,5 @@ cd bin
 tar -xvf node.tar.xz
 cd ..
 
-zip layer.zip bin lib
+rm bin/node.tar.xz 
+zip -r layer.zip bin lib
